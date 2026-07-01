@@ -35,6 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>
 </p>
 
+| 領域 | 技術 |
+| :-- | :-- |
+| **Languages** | Python · Java · R · JavaScript · TypeScript |
+| **AI / ML / Data** | PyTorch · Hugging Face Transformers · OpenCV · Pandas · NumPy · LLM Fine-Tune · RAG · Hybrid RAG |
+| **Backend** | FastAPI · Node.js · Docker · PostgreSQL · SQLite |
+| **Frontend & Mobile** | React / React Native · Next.js |
+| **Tools** | Git · GitHub · VS Code · Linux |
+
 ## Experience
 
 - `2026` 精誠集團 AI 創新競賽 — **AI 駕馭獎**
