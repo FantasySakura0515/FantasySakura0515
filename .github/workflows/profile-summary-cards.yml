@@ -1,0 +1,29 @@
+# 產生 GitHub 統計卡片(SVG)到 repo 的 profile-summary-card-output/ 資料夾。
+# 從 raw.githubusercontent 提供，不依賴任何外部即時服務，永遠不會 503。每天更新一次。
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 每天 UTC 18:00（台灣時間 02:00）更新
+  workflow_dispatch:         # 可在 Actions 頁手動觸發
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile-summary-card-output/**"   # 避免卡片更新後又觸發自己
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: "8"
