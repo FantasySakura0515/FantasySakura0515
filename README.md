@@ -1,12 +1,13 @@
 ## About me
 
-> AI 與資安背景的全端 / AI 工程師，喜歡把研究想法做成能跑的系統。
+> 一個平凡的大學生，致力於實現不平凡的夢想。研究於人工智慧原理
+> 歡迎合作
 
 - 🎓 輔仁大學 · 人工智慧與資訊安全學士學位學程 ( 二年級 / GPA 4.0/4.0 )
 - 🔬 知識工程實驗室 — 研究員
 - 🔬 公衛系 — 兼任研究助理
 - 🌱 目前研究於：Agentic, Quant, NeSy, InfoSec
-- 👥 雲鎮工藝 創辦人 — [審核制TMC開源技術社群](https://discord.gg/H6uHghNq5Z)
+- 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人 — 審核制TMC開源技術社群
 - 📫 `stevenchiang0515@gmail.com`
 
 ## Tech Stack
@@ -32,7 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/000000/ffffff" width="44" height="44" alt="Notion"/>
 </p>
 
 | 領域 | 技術 |
@@ -41,7 +44,7 @@
 | **AI / ML / Data** | PyTorch · Hugging Face Transformers · OpenCV · Pandas · NumPy · LLM Fine-Tune · RAG · Hybrid RAG |
 | **Backend** | FastAPI · Node.js · Docker · PostgreSQL · SQLite |
 | **Frontend & Mobile** | React / React Native · Next.js |
-| **Tools** | Git · GitHub · VS Code · Linux |
+| **Tools** | Git · GitHub · VS Code · Linux · Claude Code · Notion |
 
 ## Experience
 
