@@ -1,7 +1,6 @@
 ## About me
 
-> 一個平凡的大學生，致力於實現不平凡的夢想。研究於人工智慧原理及應用，也對金融分析與醫學資訊有興趣。\n
-> 歡迎合作
+> 一個平凡的大學生，致力於實現不平凡的夢想。<br/> 研究於人工智慧原理及應用，也對金融分析與醫學資訊有興趣。<br/> --<br/> 歡迎合作與交流！
 
 - 🎓 輔仁大學 · 人工智慧與資訊安全學士學位學程 ( 二年級 / GPA 4.0/4.0 )
 - 🔬 知識工程實驗室 — 研究員
@@ -9,6 +8,7 @@
 - 🌱 目前研究於：Agentic, Quant, NeSy, InfoSec
 - 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人 — 審核制TMC開源技術社群
 - 📫 `stevenchiang0515@gmail.com`
+- 💬 Discord — `fantasy_sakura`
 
 ## Tech Stack
 
