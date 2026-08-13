@@ -6,7 +6,7 @@
 - 🔬 知識工程實驗室 — 研究員
 - 🔬 公衛系 — 兼任研究助理
 - 🌱 目前研究於：Agentic, Quant, NeSy, InfoSec
-- 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人 — 審核制TMC開源技術社群
+- 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人 — 審核制TMC開源技術社群 (5000人+)
 - 📫 `stevenchiang0515@gmail.com`
 - 💬 Discord — `fantasy_sakura`
 
