@@ -4,7 +4,8 @@
 
 - 🎓 輔仁大學 · 人工智慧與資訊安全學士學位學程 ( 二年級 / GPA 4.0/4.0 )
 - 🔬 知識工程實驗室 — 研究員
-- 🔬 公衛系 — 兼任研究助理
+- 🔬 公衛系 — 研究助理
+- 📖 115 fall 資料視覺化 - TA
 - 🌱 目前研究於：Agentic, Quant, NeSy, InfoSec
 - 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人 — 審核制TMC開源技術社群 (5000人+)
 - 📫 `stevenchiang0515@gmail.com`
