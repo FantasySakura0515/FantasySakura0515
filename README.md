@@ -2,12 +2,13 @@
 
 > 一個平凡的大學生，致力於實現不平凡的夢想。<br/> 研究於人工智慧原理及應用，也對金融分析與醫學資訊有興趣。<br/> --<br/> 歡迎合作與交流！
 
-- 🎓 輔仁大學 · 人工智慧與資訊安全學士學位學程 ( 二年級 / GPA 4.0/4.0 )
-- 🔬 知識工程實驗室 — 研究員
+- 🎓 輔仁大學 · 人工智慧與資訊安全學士學位學程 ( 二年級 )
+- 🔬 資訊工程系 知識工程實驗室 — 研究員
 - 🔬 公衛系 — 研究助理
 - 📖 115 fall 資料視覺化 - TA
-- 🌱 目前研究於：Agentic, Quant, NeSy, InfoSec
-- 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人 — 審核制TMC開源技術社群 (5000人+)
+- 📖 115 fall 實體人工智慧 - TA
+- 🌱 興趣：Agentic, ML/DL, Quant, NeSy, InfoSec
+- 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人暨管理者 — 審核制TMC開源技術社群 (5000人+)
 - 📫 `stevenchiang0515@gmail.com`
 - 💬 Discord — `fantasy_sakura`
 
@@ -48,7 +49,7 @@
 | **Tools** | Git · GitHub · VS Code · Linux · Claude Code · Notion |
 
 ## Experience
-- `2026` `進行中` 總統盃黑客松 — **入圍複賽**
+- `2026` 總統盃黑客松 `進行中` — **入圍複賽**
 - `2026` 精誠集團 AI 創新競賽 — **AI 駕馭獎**
 - `2026` 春季雙北城市儀表板⿊客松 — **入圍複賽**
 - `2025` 秋季台北城市通微服務大⿊客松 — **入圍複賽**
