@@ -49,6 +49,7 @@
 | **Tools** | Git · GitHub · VS Code · Linux · Claude Code · Notion |
 
 ## Experience
+- `2026` Agentic AI on the Edge 黑客松 `進行中` — **入圍複賽** (15/51)
 - `2026` 總統盃黑客松 `進行中` — **入圍複賽** (20/249)
 - `2026` 校園開放文件格式（ODF）競賽 — **第二名** (2/21)
 - `2026` 精誠集團 AI 創新競賽 — **AI 駕馭獎** (6/80)
