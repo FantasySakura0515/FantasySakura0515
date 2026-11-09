@@ -62,7 +62,7 @@
 - `2023` 市立桃園高中 自主學習競賽 — **入圍決選** (20/750)
 
 ## Conference Presentations
-- `2026` PyCon TW 2026 - 打造全亞洲最大 Minecraft 技術社群 —— 雲鎮工藝的社群經營哲學 (Young Inspires)
+- `2026` **PyCon TW 2026** - 打造全亞洲最大 Minecraft 技術社群 —— 雲鎮工藝的社群經營哲學 (Young Inspires)
 
 ## GitHub Stats
 
