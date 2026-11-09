@@ -48,7 +48,7 @@
 | **Frontend & Mobile** | React / React Native · Next.js |
 | **Tools** | Git · GitHub · VS Code · Linux · Claude Code · Notion |
 
-## Experience
+## Honors and Awards
 - `2026` InnoServe資訊應用服務創新競賽 — **第一名** (AI工具運用組)
 - `2026` InnoServe資訊應用服務創新競賽 — **第一名** (Microsoft AI及Data生態系應用組)
 - `2026` InnoServe資訊應用服務創新競賽 — **第三名** (資安應用組)
@@ -60,6 +60,9 @@
 - `2025` 秋季台北城市通微服務大⿊客松 — **入圍複賽** (40/150+)
 - `2024` 北京清華大學 紅石電路設計競賽 — **一等獎** (1/211)
 - `2023` 市立桃園高中 自主學習競賽 — **入圍決選** (20/750)
+
+## Conference Presentations
+- `2026` PyCon TW 2026 - 
 
 ## GitHub Stats
 
