@@ -62,6 +62,10 @@
 - `2024` 北京清華大學 紅石電路設計競賽 — **一等獎** (1/211)
 - `2023` 市立桃園高中 自主學習競賽 — **入圍決選** (20/750)
 
+## Publications
+- `2026` **CSFINet-Based Multimodal MRI Image Segmentation and Survival Prediction**<br/>
+  *Diagnostics* (MDPI, JCR Q1) — CSFINet 多模態 MRI 腦瘤分割與存活預測<br/>
+
 ## Conference Presentations
 - `2026` **PyCon TW 2026** - 打造全亞洲最大 Minecraft 技術社群 —— 雲鎮工藝的社群經營哲學 (Young Inspires)
 
