@@ -8,7 +8,7 @@
 - 🔬 經濟系 — 兼任研究助理
 - 📖 115 fall 資料視覺化 - TA
 - 📖 115 fall 實體人工智慧 - TA
-- 🌱 興趣：Agentic, ML/DL, Quant, InfoSec
+- 🌱 興趣：Agentic, DataSci, ML/DL, Quant, InfoSec
 - 👥 [雲鎮工藝](https://discord.gg/H6uHghNq5Z) 創辦人暨管理者 — 審核制TMC開源技術社群 (5000人+)
 - 📫 `stevenchiang0515@gmail.com`
 - 💬 Discord — `fantasy_sakura`
